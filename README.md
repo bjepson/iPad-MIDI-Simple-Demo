@@ -13,3 +13,5 @@ You also will need some basic sensors attached:
 * A pushbutton on digital pin 2 to play notes
 
 ![iPad and Arduino having fun with MIDI](https://github.com/bjepson/iPad-MIDI-Simple-Demo/raw/master/iPadArduinoUSBMIDI.jpg)
+
+Photo by [Alasdair Allan](http://www.dailyack.com/)
